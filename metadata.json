@@ -1,0 +1,6 @@
+{
+  "name": "Catalyst Academy",
+  "description": "Complete offline academy management app for students, tests, attendance, fees, subjects, PDF paper generation, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
